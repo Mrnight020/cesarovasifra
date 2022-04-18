@@ -1,0 +1,12 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\bin\Debug\StringCeasarencryption.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\bin\Debug\StringCeasarencryption.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\bin\Debug\StringCeasarencryption.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.Form2.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\StringCeasarencryption\StringCeasarencryption\obj\Debug\StringCeasarencryption.Menu.resources
